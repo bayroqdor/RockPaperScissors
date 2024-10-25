@@ -27,7 +27,7 @@ Ushbu loyiha klassik Tosh Qog'oz Qaychi o'yinining C++ dasturlash tilidagi oddiy
 Repoyitoriyani kompyuteringizga klonlang:
 
 ```bash
-git clone https://github.com/yourusername/RockPaperScissors.git
+git clone https://github.com/bayroqdor/RockPaperScissors.git
 cd RockPaperScissors
 ```
 
