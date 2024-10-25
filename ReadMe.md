@@ -41,7 +41,7 @@ O'yinni ishga tushiring:
 
 ## Kutubxona haqida
 
-Kodimizdagi <cstdlib> kutubxonasi tasodifiy sonlar generatorini ishga tushiruvchi srand() funksiyasini va tizimning joriy vaqtini qaytaruvchi time() funksiyasini chaqirish uchun qo‘llaniladi. Quyidagi satrga e’tibor qarating:
+Kodimizdagi "cstdlib" kutubxonasi tasodifiy sonlar generatorini ishga tushiruvchi srand() funksiyasini va tizimning joriy vaqtini qaytaruvchi time() funksiyasini chaqirish uchun qo‘llaniladi. Quyidagi satrga e’tibor qarating:
 
 ```cpp
 srand(time(0));
